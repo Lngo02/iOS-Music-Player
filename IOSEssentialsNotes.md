@@ -1,6 +1,6 @@
 ## IOS Essentials notes
 
-## Part 1: Intro to IOS Development
+## Intro to IOS Development
 
 XCode
   - the IDE used to build iOS applications
@@ -155,34 +155,4 @@ Swift
       - need to define the type that the function returns
       - use '-> Type' syntax to show that the function returns that type
       - the compiler can check that the returned value is the same type that's being expected.
-    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
